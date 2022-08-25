@@ -16,6 +16,14 @@
 
 ---
 
+#### Add project dependencies to requirements.txt file
+
+> pip freeze > requirements.txt
+
+#### To install project dependencies
+
+> pip install -r requirements.txt
+
 #### Create fastapi server
 
 <!-- In main.py -->
